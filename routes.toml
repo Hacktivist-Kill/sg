@@ -28,7 +28,7 @@ rules=[
 [[routes.Outs]]
 listen=""
 type="ss"
-server="us_unlock.math-edu.cc"
+server="sg_unlock.math-edu.cc"
 port=33333
 password="ZGRmYmUxZWU5MjI1ODhhZjM2NGUyZmNkZjY5MzkxMTE=:YWMxOGNiZDQtNWE2Ny00MTljLWI5MWItNjYwZDU5OGU="
 cipher="2022-blake3-aes-256-gcm"
